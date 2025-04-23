@@ -8,8 +8,4 @@
 
 ## Running
 
-Each time this example is run, a sqlite3 database is created or appended to. A single message is appended and all records are retrieved and rendered on the page.
-
-## Thanks
-
-Contents of this examples were taken from [this tutorial](https://www.if-not-true-then-false.com/2012/php-pdo-sqlite3-example/).
+this is a small dictionary of emojis . you can add emoji with name in database and can search the emoji from database using php html and tailwind with bulms css .
